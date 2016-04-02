@@ -1,4 +1,4 @@
-PyH by Emmanuel Turlay (turlay@cern.ch)
+HTML 代码格式化模块 PyH by Emmanuel Turlay (turlay@cern.ch)
 =======================================
 
 PyH is a simple python module (pyh.py) that lets you 
